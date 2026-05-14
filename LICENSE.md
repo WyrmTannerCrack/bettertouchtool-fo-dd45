@@ -1,4 +1,4 @@
-
+instant Automation for BetterTouchTool for macOS - OCR-support and junk-removal is the best BetterTouchTool for macOS automation, featuring OCR-support and junk-removal. Safe,
 
 
 
